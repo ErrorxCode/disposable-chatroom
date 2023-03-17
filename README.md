@@ -3,6 +3,10 @@
 The disposable chatroom is a library from which you can build a fully anonymous virtual room where your friends or random person can join to talk. Talking about **privacy** doesn't make sense since the room is disposable However, this more **depends on the app** made using this library.
 
 
+## **NOTE
+**The project has been discontinued due to the [changes](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq#:~:text=For%20non%2DEnterprise%20users%2C%20free,will%20be%20converted%20to%20mini%20.) in heroku free tear**
+
+
 
 ## Implementation
 
